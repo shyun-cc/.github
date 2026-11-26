@@ -1,41 +1,41 @@
-# SHYUN
+# 嵩湖云 · SHYUN
 
-English | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md)
+简体中文 | [English](./README.en.md) | [繁體中文](./README.zh-TW.md)
 
-**Standardized products with industry-specific depth.** SHYUN builds SaaS platforms and open-source foundations for manufacturing, food service and retail, community property management, and rental services. Ready-to-use products and flexible configuration help small and midsize businesses digitize their operations.
+**标准化产品，兼顾行业深度。** 嵩湖云为制造业、餐饮零售、社区物业与租赁服务等行业提供 SaaS 平台和开源业务底座。产品开箱即用、配置灵活，帮助中小企业实现业务数字化。
 
-Website [shyun.cc](https://www.shyun.cc) · Contact [ilovintit@gmail.com](mailto:ilovintit@gmail.com)
+官网 [shyun.cc](https://www.shyun.cc) · 联系 [ilovintit@gmail.com](mailto:ilovintit@gmail.com)
 
-## About SHYUN
+## 关于嵩湖云
 
-SHYUN draws on years of implementing software for businesses. We turn modules proven across those deployments into standardized products and open-source infrastructure for multiple platforms.
+嵩湖云源于多年的企业软件实施经验。我们将多个项目中反复验证的模块沉淀为标准化产品与多端开源基础设施。
 
-- **Ready to use.** Deploy quickly for real production workloads.
-- **Flexible configuration.** Extend a shared foundation to fit industry-specific workflows.
-- **Proven architecture.** Frontend, backend, and cross-platform components have been used in production.
-- **Cross-platform support.** Build for desktop web, mobile web (H5), WeChat Mini Programs, and native Android.
+- **开箱即用。** 支持在真实生产场景中快速落地。
+- **灵活配置。** 在通用底座上按行业业务流程扩展。
+- **成熟架构。** 前端、后端及多端组件均已在生产环境中使用。
+- **多端支持。** 覆盖桌面 Web、移动 Web（H5）、微信小程序和原生 Android。
 
-## Open-Source Applications
+## 开源业务产品
 
-| Project | Description | License |
+| 项目 | 说明 | 许可证 |
 | --- | --- | --- |
-| [lathe-base](https://github.com/shyun-cc/lathe-base) | Open-source ERP foundation for small and midsize discrete manufacturers, designed for ongoing customization by AI agents | [Apache-2.0](https://github.com/shyun-cc/lathe-base/blob/main/LICENSE) |
-| [solo-tables](https://github.com/shyun-cc/solo-tables) | Free, open-source ordering and checkout system for small single-location restaurants | [AGPL-3.0](https://github.com/shyun-cc/solo-tables/blob/main/LICENSE) |
-| [free-lot](https://github.com/shyun-cc/free-lot) | Free, open-source parking and property management system | [AGPL-3.0](https://github.com/shyun-cc/free-lot/blob/main/LICENSE) |
-| [half-km](https://github.com/shyun-cc/half-km) | Open-source neighborhood delivery mall & community group-buying platform | [AGPL-3.0](https://github.com/shyun-cc/half-km/blob/main/LICENSE) |
+| [lathe-base（母版）](https://github.com/shyun-cc/lathe-base) | 面向中小型离散制造企业的开源 ERP 底座，支持 AI Agent 持续定制 | [Apache-2.0](https://github.com/shyun-cc/lathe-base/blob/main/LICENSE) |
+| [solo-tables（二十桌）](https://github.com/shyun-cc/solo-tables) | 面向小型单店餐饮的免费开源点单与收银系统 | [AGPL-3.0](https://github.com/shyun-cc/solo-tables/blob/main/LICENSE) |
+| [free-lot（自由泊）](https://github.com/shyun-cc/free-lot) | 免费开源停车与物业管理系统 | [AGPL-3.0](https://github.com/shyun-cc/free-lot/blob/main/LICENSE) |
+| [half-km（半公里）](https://github.com/shyun-cc/half-km) | 免费开源社区附近配送商城与社区团购系统 | [AGPL-3.0](https://github.com/shyun-cc/half-km/blob/main/LICENSE) |
 
-## Core Libraries and Cross-Platform UI
+## 开源基础库与多端 UI
 
-The core libraries and backend toolkit are MIT-licensed. They can be fetched anonymously and used independently without private dependencies.
+各基础库和后端工具包均采用 MIT 许可证，无私有依赖，支持匿名获取和独立使用。
 
-| Repository | Description | Stack | License |
+| 仓库 | 说明 | 技术栈 | 许可证 |
 | --- | --- | --- | --- |
-| [shw-gf-lib](https://github.com/shyun-cc/shw-gf-lib) | GoFrame v2 backend toolkit for migrations, utilities, and infrastructure abstractions | Go / GoFrame v2 | [MIT](https://github.com/shyun-cc/shw-gf-lib/blob/main/LICENSE) |
-| [shw-ui-tokens](https://github.com/shyun-cc/shw-ui-tokens) | Shared design tokens for semantic light and dark themes, with automated generators | TypeScript | [MIT](https://github.com/shyun-cc/shw-ui-tokens/blob/main/LICENSE) |
-| [shw-wui](https://github.com/shyun-cc/shw-wui) | Desktop web UI components | Vue 3 / TypeScript | [MIT](https://github.com/shyun-cc/shw-wui/blob/main/LICENSE) |
-| [shw-mui](https://github.com/shyun-cc/shw-mui) | Mobile web (H5) and WeChat Mini Program UI components | Vue 3 / TypeScript | [MIT](https://github.com/shyun-cc/shw-mui/blob/main/LICENSE) |
-| [shw-nui](https://github.com/shyun-cc/shw-nui) | Native Android UI components | Kotlin / Android | [MIT](https://github.com/shyun-cc/shw-nui/blob/main/LICENSE) |
+| [shw-gf-lib](https://github.com/shyun-cc/shw-gf-lib) | GoFrame v2 后端工具包，涵盖迁移、实用工具和基础设施抽象 | Go / GoFrame v2 | [MIT](https://github.com/shyun-cc/shw-gf-lib/blob/main/LICENSE) |
+| [shw-ui-tokens](https://github.com/shyun-cc/shw-ui-tokens) | 跨端共享设计令牌，支持亮色与暗色主题语义及自动生成 | TypeScript | [MIT](https://github.com/shyun-cc/shw-ui-tokens/blob/main/LICENSE) |
+| [shw-wui](https://github.com/shyun-cc/shw-wui) | 桌面 Web UI 组件 | Vue 3 / TypeScript | [MIT](https://github.com/shyun-cc/shw-wui/blob/main/LICENSE) |
+| [shw-mui](https://github.com/shyun-cc/shw-mui) | 移动 Web（H5）和微信小程序 UI 组件 | Vue 3 / TypeScript | [MIT](https://github.com/shyun-cc/shw-mui/blob/main/LICENSE) |
+| [shw-nui](https://github.com/shyun-cc/shw-nui) | 原生 Android UI 组件 | Kotlin / Android | [MIT](https://github.com/shyun-cc/shw-nui/blob/main/LICENSE) |
 
-## Contributing
+## 参与贡献
 
-Open an issue or pull request in the relevant repository to report a problem, suggest an improvement, or contribute a change.
+欢迎在对应仓库提交 Issue 或 Pull Request，报告问题、提出建议或贡献改动。
