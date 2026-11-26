@@ -22,6 +22,7 @@
 | [lathe-base（母版）](https://github.com/shyun-cc/lathe-base) | 面向中小型離散製造企業的開源 ERP 底座，支援 AI Agent 持續定製 | [Apache-2.0](https://github.com/shyun-cc/lathe-base/blob/main/LICENSE) |
 | [solo-tables（二十桌）](https://github.com/shyun-cc/solo-tables) | 面向小型單店餐飲的免費開源點單與收銀系統 | [AGPL-3.0](https://github.com/shyun-cc/solo-tables/blob/main/LICENSE) |
 | [free-lot（自由泊）](https://github.com/shyun-cc/free-lot) | 免費開源停車與物業管理系統 | [AGPL-3.0](https://github.com/shyun-cc/free-lot/blob/main/LICENSE) |
+| [half-km（半公里）](https://github.com/shyun-cc/half-km) | 免費開源社區附近配送商城與社區團購系統 | [AGPL-3.0](https://github.com/shyun-cc/half-km/blob/main/LICENSE) |
 
 ## 開源基礎庫與多端 UI
 

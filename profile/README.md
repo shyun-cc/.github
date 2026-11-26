@@ -22,6 +22,7 @@ SHYUN draws on years of implementing software for businesses. We turn modules pr
 | [lathe-base](https://github.com/shyun-cc/lathe-base) | Open-source ERP foundation for small and midsize discrete manufacturers, designed for ongoing customization by AI agents | [Apache-2.0](https://github.com/shyun-cc/lathe-base/blob/main/LICENSE) |
 | [solo-tables](https://github.com/shyun-cc/solo-tables) | Free, open-source ordering and checkout system for small single-location restaurants | [AGPL-3.0](https://github.com/shyun-cc/solo-tables/blob/main/LICENSE) |
 | [free-lot](https://github.com/shyun-cc/free-lot) | Free, open-source parking and property management system | [AGPL-3.0](https://github.com/shyun-cc/free-lot/blob/main/LICENSE) |
+| [half-km](https://github.com/shyun-cc/half-km) | Open-source neighborhood delivery mall & community group-buying platform | [AGPL-3.0](https://github.com/shyun-cc/half-km/blob/main/LICENSE) |
 
 ## Core Libraries and Cross-Platform UI
 
