@@ -34,10 +34,10 @@
 
 | 仓库 | 说明 | 技术栈 | 许可证 |
 | --- | --- | --- | --- |
-| [**shw-gf-lib**](https://github.com/shyun-cc/shw-gf-lib) | 嵩湖湾 GoFrame v2 后端基础依赖库（迁移、工具集、基础设施抽象） | Go / GoFrame v2 | MIT |
+| [**shw-gf-lib**](https://github.com/shyun-cc/shw-gf-lib) | GoFrame v2 后端基础依赖库（迁移、工具集、基础设施抽象） | Go / GoFrame v2 | MIT |
 | [**shw-ui-tokens**](https://github.com/shyun-cc/shw-ui-tokens) | 跨端统一设计令牌（明暗主题语义槽位与自动生成器） | TypeScript | MIT |
-| [**shw-wui**](https://github.com/shyun-cc/shw-wui) | 嵩湖湾桌面端（PC Web）UI 组件库 | Vue 3 / TypeScript | MIT |
-| [**shw-mui**](https://github.com/shyun-cc/shw-mui) | 嵩湖湾移动端（H5 / 小程序）UI 组件库 | Vue 3 / TypeScript | MIT |
+| [**shw-wui**](https://github.com/shyun-cc/shw-wui) | 桌面端（PC Web）UI 组件库 | Vue 3 / TypeScript | MIT |
+| [**shw-mui**](https://github.com/shyun-cc/shw-mui) | 移动端（H5 / 小程序）UI 组件库 | Vue 3 / TypeScript | MIT |
 | [**shw-nui**](https://github.com/shyun-cc/shw-nui) | 原生 App UI 组件库 | Kotlin / Android | MIT |
 
 ---
